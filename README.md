@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Alamsyah 👋</h1>
 
 <p align="center">
-  🚀 Backend & Mobile Developer <br>
-  💻 Laravel | Flutter | PHP | Dart <br>
+  🚀 Backend & Software Developer <br>
 </p>
 
 ---
