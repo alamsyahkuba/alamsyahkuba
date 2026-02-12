@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alam Syah 👋</h1>
 
-<!--
-**alamsyahkuba/alamsyahkuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Backend & Mobile Developer <br>
+  💻 Laravel | Flutter | PHP | Dart <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,html,css,mysql,git,linux" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/USERNAME_KAMU
+- 📧 Email: your@email.com
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories.
+</p>
