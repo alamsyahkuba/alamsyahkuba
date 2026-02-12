@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alam Syah 👋</h1>
+<h1 align="center">Hi, I'm Alamsyah 👋</h1>
 
 <p align="center">
   🚀 Backend & Mobile Developer <br>
@@ -10,8 +10,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alamsyahkuba&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamsyahkuba&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alamsyahkuba&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -27,15 +27,15 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,html,css,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,js,html,css,mysql,git,linux,csharp" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 GitHub: https://github.com/USERNAME_KAMU
-- 📧 Email: your@email.com
+- 🌐 GitHub: https://github.com/alamsyahkuba
+- 📧 Email: yunioralamsyah@yahoo.com
 
 ---
 
