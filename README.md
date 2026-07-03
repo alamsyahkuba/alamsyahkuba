@@ -1,4 +1,4 @@
-<img width="264" height="149" alt="image" src="https://github.com/user-attachments/assets/b5fbe1c5-1ae3-4948-863d-4a2f9e9dd4c0" /><h1 align="center">Hi, I'm Alamsyah 👋</h1>
+<h1 align="center">Hi, I'm Alamsyah 👋</h1>
 
 <p align="center">
   🚀 Backend & Software Developer <br>
